@@ -1,37 +1,41 @@
-👋 Hi, I’m Kesmond Wilson – Cybersecurity Professional
-With over 3 years of experience in the cybersecurity field, I’m passionate about protecting systems, networks, and data from evolving threats. 
-Throughout my career, I’ve had the opportunity to work across multiple domains of cybersecurity, strengthening my skills and deepening my expertise.
+👋 Hi, I'm [Your Name] — Program Manager & Cybersecurity Analyst
 
-🛠️ Areas of Expertise
+Welcome to my GitHub! With a diverse background in Program Management and Cybersecurity, I’ve had the privilege of working across several industries, including manufacturing, insurance, and federal government. My expertise spans managing complex projects, delivering value-driven solutions, and safeguarding critical systems in dynamic environments. Along the way, I’ve honed essential skills in customer service, problem-solving, and communication, which have been key to my success in both managing teams and addressing security challenges.
 
-I specialize in several key areas of cybersecurity, including:
-- Security Compliance and Risk Management – Ensuring organizations meet security and regulatory standards by managing risks and aligning with frameworks like NIST, ISO 27001, and GDPR.
-- Vulnerability Management – Proactively identifying, assessing, and remediating vulnerabilities across infrastructure to reduce the attack surface.
--Incident Response (IR) – Leading and supporting incident investigations, containment strategies, and root cause analysis to effectively mitigate and respond to security breaches.
-- Firewall Management and Network Defense – Designing, configuring, and managing firewall policies, as well as defending network infrastructures against unauthorized access and attacks.
-- Cloud Security – Securing cloud environments, including AWS, Azure, and Google Cloud, to ensure compliance and data protection across multi-cloud platforms.
-- Security Automation and Orchestration (SOAR) – Implementing and managing SOAR solutions to automate repetitive tasks, reduce response times, and enhance operational efficiency.
+🧑‍💼 Program Manager
+As a Program Manager, I’ve successfully led and managed programs across different sectors, using structured methodologies to ensure projects are delivered on time, within budget, and aligned with business goals. I’m passionate about collaborating with cross-functional teams to drive impactful outcomes and continuously improve processes.
 
-🌱 Continuous Learning & Growth
+Key Skills & Focus Areas:
+- Project Documentation & Roadmaps: I create comprehensive documentation that ensures clear communication, including roadmaps, project plans, and timelines for stakeholders.
+- Project Management Templates: I use standardized templates to maintain consistency and efficiency in project execution, ensuring high-quality deliverables.
+- Sprint Boards: Managing agile workflows and sprint boards to track progress and make iterative improvements.
+- Case Studies & Post-Mortems: I prioritize reflection and learning, compiling detailed case studies and post-mortems to improve future projects.
+- Dashboards & Reports: Building visual dashboards and reports to keep stakeholders informed on project health, progress, and key performance metrics.
+- Metrics & KPIs Tracking: Setting and tracking key performance indicators (KPIs) to measure success and optimize project outcomes.
+- Risk Management & Problem-Solving: Identifying potential risks early and implementing solutions to mitigate them, ensuring project success even in the face of challenges.
 
-Cybersecurity is a constantly evolving field, and I believe in staying ahead of the curve. I am continually working on:
-- Expanding my knowledge of advanced threat hunting and traffic analysis techniques.
-- Gaining hands-on experience with next-gen security technologies, such as SIEM (Security Information and Event Management) and endpoint detection and response (EDR).
-- Exploring emerging fields like artificial intelligence (AI) and machine learning (ML) in threat detection and prevention.
+🛡️ Cybersecurity Analyst (Blue Team)
+In my role as a Cybersecurity Analyst, I specialize in defending systems and networks from cyber threats. With experience in various security operations, I’m dedicated to implementing robust security protocols and continuously enhancing the security posture of organizations.
 
-📈 Career Highlights
+Key Skills & Focus Areas:
+- Security Operations Center (SOC): Proficient in monitoring, detecting, and responding to security incidents in real time, maintaining a strong defense against emerging threats.
+- Traffic Analysis: Conducting network traffic analysis to detect anomalies and identify potential security breaches.
+- Firewall & SOAR: Expertise in firewall management and Security Orchestration, Automation, and Response (SOAR) tools to streamline and enhance incident response processes.
+- Vulnerability Management: Identifying and managing vulnerabilities, ensuring systems are regularly assessed and patched to prevent exploits.
+- Cloud Security: Implementing and managing cloud security solutions to protect critical infrastructure and sensitive data in cloud environments.
 
-- Successfully led the response to several high-severity incidents, significantly reducing downtime and damage.
-- Played a pivotal role in the design and implementation of vulnerability management programs, reducing critical risks for several enterprise clients.
-- Conducted thorough penetration testing and risk assessments, resulting in measurable improvements in network and system security posture.
+💬 Additional Skills
+I believe that success is not only about technical expertise but also about effective communication, problem-solving, and delivering excellent customer service. These skills have been central to my ability to:
+- Customer Service: Building strong relationships with clients and stakeholders by providing consistent, high-quality service and proactively addressing their needs.
+- Problem-Solving: Tackling complex issues with a solution-oriented mindset, whether it’s resolving project challenges or mitigating security incidents.
+- Communication: Clearly articulating complex ideas to diverse audiences, ensuring transparency, collaboration, and alignment across teams and stakeholders.
 
-🤝 Let’s Connect
+🌍 Work History
+I have held various roles across industries, each adding a new layer of expertise and perspective to my work:
+- Manufacturing: I started my career in the manufacturing sector, where I managed large-scale projects, streamlined operations, and improved workflow efficiencies.
+- Insurance: Transitioning into the insurance industry, I focused on project management, risk analysis, and process optimization to enhance operational effectiveness and reduce costs.
+- Federal Government: Most recently, I have contributed to the cybersecurity efforts in the federal government, working on national security initiatives and safeguarding critical infrastructure from evolving threats.
 
-I’m always looking to expand my professional network and collaborate with others in the cybersecurity space. Whether you’re interested in discussing new trends, sharing insights, or working on exciting projects together, feel free to reach out!
+📈 Let's Connect
+I’m always looking to expand my network and collaborate on innovative projects. Feel free to explore my repositories and reach out if you’d like to connect or discuss potential collaborations.
 
-
-
-<!---
-Kesmondlw79/Kesmondlw79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
