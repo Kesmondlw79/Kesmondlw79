@@ -2,6 +2,9 @@
 
 Welcome to my GitHub! With a diverse background in Program Management and Cybersecurity, I’ve had the privilege of working across several industries, including manufacturing, insurance, and federal government. My expertise spans managing complex projects, delivering value-driven solutions, and safeguarding critical systems in dynamic environments. Along the way, I’ve honed essential skills in customer service, problem-solving, and communication, which have been key to my success in both managing teams and addressing security challenges.
 
+🎯 Objective
+I’m currently seeking a position as a **Tier 1 SOC Analyst** where I can apply my cybersecurity skills, analytical mindset, and hands-on experience with security operations to monitor, detect, and respond to security incidents. My goal is to grow within a dynamic team, leveraging my knowledge of security protocols, network analysis, and incident response to protect critical infrastructure and contribute to the success of the organization.
+
 🧑‍💼 Program Manager
 As a Program Manager, I’ve successfully led and managed programs across different sectors, using structured methodologies to ensure projects are delivered on time, within budget, and aligned with business goals. I’m passionate about collaborating with cross-functional teams to drive impactful outcomes and continuously improve processes.
 
@@ -14,7 +17,7 @@ Key Skills & Focus Areas:
 - Metrics & KPIs Tracking: Setting and tracking key performance indicators (KPIs) to measure success and optimize project outcomes.
 - Risk Management & Problem-Solving: Identifying potential risks early and implementing solutions to mitigate them, ensuring project success even in the face of challenges.
 
-🛡️ Cybersecurity Analyst (Blue Team)
+ 🛡️ Cybersecurity Analyst (Blue Team)
 In my role as a Cybersecurity Analyst, I specialize in defending systems and networks from cyber threats. With experience in various security operations, I’m dedicated to implementing robust security protocols and continuously enhancing the security posture of organizations.
 
 Key Skills & Focus Areas:
@@ -29,6 +32,20 @@ I believe that success is not only about technical expertise but also about effe
 - Customer Service: Building strong relationships with clients and stakeholders by providing consistent, high-quality service and proactively addressing their needs.
 - Problem-Solving: Tackling complex issues with a solution-oriented mindset, whether it’s resolving project challenges or mitigating security incidents.
 - Communication: Clearly articulating complex ideas to diverse audiences, ensuring transparency, collaboration, and alignment across teams and stakeholders.
+
+🛠️ Tools & Technologies
+Here are some of the tools I have experience with, particularly in cybersecurity and network management:
+- Network Tools:  
+  - Wireshark– Capturing and analyzing network traffic to troubleshoot and detect anomalies.
+  - Metasploitable2 – Leveraging this intentionally vulnerable machine for penetration testing and hands-on security learning.
+  
+- SIEM Tools:  
+  - Splunk – Using Splunk for monitoring, analyzing, and responding to security events in real-time.
+  - Elastic Stack (ELK) – Utilizing the Elastic Stack for logging, monitoring, and enhancing security visibility across environments.
+
+📜 Certifications & Education
+ - Network+: I have completed my Network+ course and am currently in the process of obtaining relevant certifications to further enhance my technical expertise.
+ - Certifications Pending: My certifications are pending, and I am actively working on acquiring industry-recognized credentials to validate my skills and knowledge in cybersecurity.
 
 🌍 Work History
 I have held various roles across industries, each adding a new layer of expertise and perspective to my work:
