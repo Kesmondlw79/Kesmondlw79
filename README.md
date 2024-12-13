@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name] — Program Manager & Cybersecurity Analyst
+👋 Hi, I'm Kes — Program Manager & Cybersecurity Analyst
 
 Welcome to my GitHub! With a diverse background in Program Management and Cybersecurity, I’ve had the privilege of working across several industries, including manufacturing, insurance, and federal government. My expertise spans managing complex projects, delivering value-driven solutions, and safeguarding critical systems in dynamic environments. Along the way, I’ve honed essential skills in customer service, problem-solving, and communication, which have been key to my success in both managing teams and addressing security challenges.
 
