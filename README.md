@@ -45,6 +45,9 @@ Here are some of the tools I have experience with, particularly in cybersecurity
 
 📜 Certifications & Education
  - Network+: I have completed my Network+ course and am currently in the process of obtaining relevant certifications to further enhance my technical expertise.
+
+ - [Download NetworkPlus PDF](https://github.com/Kesmondlw79/Kesmondlw79/raw/main/KesmondWilson%20(3).pdf)
+ 
  - Certifications Pending: My certifications are pending, and I am actively working on acquiring industry-recognized credentials to validate my skills and knowledge in cybersecurity.
 
 🌍 Work History
