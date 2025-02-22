@@ -16,18 +16,18 @@ Key Skills & Focus Areas:
 - IAM Compliance & Audits: Ensuring NIST, ISO 27001, HIPAA, and SOX compliance by conducting IAM risk assessments and implementing access review processes.  
 - Project Documentation & Roadmaps: Creating IAM roadmaps, access management policies, and security workflows for streamlined operations.  
 - Role-Based Access Control (RBAC): Designing and enforcing RBAC policies to ensure segregation of duties (SoD) and minimize attack surfaces.  
-- Mentoring & Team Leadership: Coaching IT teams on **IAM best practices**, fostering a security-first culture, and **building high-performance teams.  
+- Mentoring & Team Leadership: Coaching IT teams on IAM best practices, fostering a security-first culture, and **building high-performance teams.  
 
 🛡️ Cybersecurity Analyst (Blue Team) & IAM Defender  
 In my role as a Cybersecurity Analyst and IAM Specialist, I specialize in defending systems, managing identities, and enforcing access controls to prevent cyber threats and ensure compliance.  
 
 Key Skills & Focus Areas: 
 - Security Operations Center (SOC): Monitoring and managing security incidents using Splunk, QRadar, and ELK Stack. 
-- IAM Incident Response:** Investigating **account takeovers, access anomalies, and privilege escalations** using SIEM and SOAR tools.  
-- Traffic Analysis & Threat Hunting:** Using **Wireshark and Zeek** to detect anomalous access patterns and unauthorized privilege escalations.  
-- Cloud Security & IAM:** Implementing identity security measures in AWS (IAM Policies, S3 Bucket Controls) and Azure (Conditional Access, Defender for Identity).  
+- IAM Incident Response: Investigating account takeovers, access anomalies, and privilege escalations using SIEM and SOAR tools.  
+- Traffic Analysis & Threat Hunting: Using Wireshark and Zeek** to detect anomalous access patterns and unauthorized privilege escalations.  
+- Cloud Security & IAM: Implementing identity security measures in AWS (IAM Policies, S3 Bucket Controls) and Azure (Conditional Access, Defender for Identity).  
 - Vulnerability Management: Identifying IAM misconfigurations using Tenable, Qualys, and Nessus, ensuring remediation of security gaps.  
-- Firewall & SOAR:** Enforcing IAM-based firewall policies and automating response workflows with alo Alto Cortex XSOAR.  
+- Firewall & SOAR: Enforcing IAM-based firewall policies and automating response workflows with alo Alto Cortex XSOAR.  
 
 💬 Additional Skills
 I believe that success in cybersecurity and IAM is not just about technical expertise but also about strategic thinking, leadership, and collaboration. 
@@ -51,8 +51,7 @@ Cloud Security & IAM:
 - AWS IAM Policies, Azure Conditional Access – Enforcing identity-based security controls.  
 
 📜 Certifications & Education
-- CISSP (Pending) – Advanced cybersecurity and IAM knowledge.  
-- AWS Security Specialty – Cloud security with a focus on IAM.  
+- AWS Security Specialty(in view) – Cloud security with a focus on IAM.  
 - CompTIA Security+ & Network+ – Foundational security and networking expertise.  
 
 📜 [Download Network+ Certification PDF](https://github.com/Kesmondlw79/Kesmondlw79/raw/main/KesmondWilson%20(3).pdf)  
