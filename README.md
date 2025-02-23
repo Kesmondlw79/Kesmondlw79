@@ -11,7 +11,7 @@ As a Program Manager and IAM Specialist, I’ve successfully led and managed pro
 
 Key Skills & Focus Areas:  
 - Identity Governance & Administration (IGA): Implementing SailPoint, Okta, and Azure AD for centralized access control, reducing unauthorized access risks.  
-- Privileged Access Management (PAM): Configuring and managing **CyberArk** to secure privileged accounts and mitigate insider threats.  
+- Privileged Access Management (PAM): Configuring and managing CyberArk to secure privileged accounts and mitigate insider threats.  
 - Zero Trust Security Model: Implementing Zero Trust architectures with multi-factor authentication (MFA) and least privilege access controls.  
 - IAM Compliance & Audits: Ensuring NIST, ISO 27001, HIPAA, and SOX compliance by conducting IAM risk assessments and implementing access review processes.  
 - Project Documentation & Roadmaps: Creating IAM roadmaps, access management policies, and security workflows for streamlined operations.  
