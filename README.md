@@ -4,7 +4,7 @@
 Welcome to my GitHub! With a diverse background in Program Management, Cybersecurity, and Identity & Access Management (IAM), I’ve had the privilege of working across several industries, including manufacturing, insurance, and federal government. My expertise spans managing complex projects, leading security initiatives, and safeguarding critical systems in dynamic environments. Along the way, I’ve honed essential skills in team leadership, mentoring, problem-solving, and communication, which have been key to my success in both managing teams and addressing security challenges.  
 
  🎯 Objective  
-I’m currently seeking a position as a Tier 1 SOC Analyst, where I can apply my cybersecurity skills, IAM expertise, and analytical mindset to monitor, detect, and respond to security incidents. My goal is to grow within a dynamic team, leveraging my knowledge of security protocols, identity governance, privileged access management (PAM), network analysis, and incident response to protect critical infrastructure and contribute to organizational success.  
+I’m currently seeking a position as a Analyst, where I can apply my cybersecurity skills, IAM expertise, and analytical mindset to monitor, detect, and respond to security incidents. My goal is to grow within a dynamic team, leveraging my knowledge of security protocols, identity governance, privileged access management (PAM), network analysis, and incident response to protect critical infrastructure and contribute to organizational success.  
 
 🧑‍💼 Program Manager & IAM Specialist  
 As a Program Manager and IAM Specialist, I’ve successfully led and managed programs across different sectors, implementing structured methodologies to ensure security, compliance, and efficiency. I specialize in IAM strategies, ensuring that access to critical systems is secure, compliant, and aligned with business needs.  
@@ -61,7 +61,7 @@ My career journey reflects a strong cybersecurity and IAM foundation across mult
 
 - Government Healthcare: Securing patient data, ensuring IAM compliance, and reducing access risks.  
 - Insurance & Finance: Protecting financial systems, enforcing IAM policies, and mitigating insider threats.  
-- Manufacturing: Securing OT and IT environments with **role-based access controls** and privileged access policies.  
+- Manufacturing: Securing OT and IT environments with role-based access controls and privileged access policies.  
 
 📈 Let's Connect
 I’m always looking to collaborate on cybersecurity and IAM projects. Feel free to explore my repositories and connect if you’d like to discuss Zero Trust, access controls, or security automation.🚀  
